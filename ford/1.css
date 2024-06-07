@@ -1,0 +1,62 @@
+img{
+    width: 100%;
+    border-radius: 45px;
+}
+ .logo-img{
+    width: 100px;
+ }
+.ford{
+    background-image: url(model-car-2037027_1920.jpg);
+    background-size: cover;
+    background-position: center    ;
+    text-align: center;
+     
+    height:600px;
+}
+ .fird{
+    padding-top: 40px;
+    padding-bottom: 45px;
+ }
+ h2{
+    text-align: center;
+ }
+ .col-lg-3.col-md-4.col-sm-6.col-12{
+   padding: 20px;
+ }
+.card-header{
+   background-color: #565656;
+   color: aliceblue;
+}
+.container-fluid{
+   background-image:linear-gradient(   rgb(112, 101, 202),rgb(69, 56, 134),rgb(91, 120, 176))    ;
+   
+}
+ 
+body{
+   color: aliceblue;
+}
+.navbar{
+   color: aliceblue;
+}
+.ford{
+   color: black;
+}
+.Henry{
+   height:  600px;
+}
+.siska{
+   margin-top: 80px;
+}
+.Artem {
+   height: 400px;
+}
+.footer{
+   background-color:black ;
+   color: aliceblue;
+ }
+ .fa-face{
+   background-color: blue;
+ } 
+ .fa-brands{
+   justify-content: space-between;
+ } 
